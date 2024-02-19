@@ -7,7 +7,7 @@ This is a simple ATM machine project implemented in Python that can be run in th
 1. Run the program in a Python environment:
 
     ```bash
-    python sofiya.py
+    python3 sofiya.py
     ```
 
 2. Follow the on-screen instructions to navigate through the ATM options.
